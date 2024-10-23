@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Flutter Development",
+      "description": "Learn how to develop beautiful and responsive apps using Flutter.",
+      "imageUrl": "https://example.com/images/flutter_development.jpg"
+    },
+    {
+      "title": "Understanding Dart",
+      "description": "Dart is a programming language optimized for building apps on multiple platforms.",
+      "imageUrl": "https://example.com/images/understanding_dart.jpg"
+    },
+    {
+      "title": "State Management in Flutter",
+      "description": "Explore different state management techniques for managing app state in Flutter.",
+      "imageUrl": "https://example.com/images/state_management.jpg"
+    },
+    {
+      "title": "Building Responsive UI",
+      "description": "Learn how to build responsive user interfaces in Flutter that work on any device.",
+      "imageUrl": "https://example.com/images/responsive_ui.jpg"
+    }
+  ]
+}
