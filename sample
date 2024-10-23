@@ -1,0 +1,42 @@
+{
+  "user": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "isActive": true,
+    "roles": ["admin", "editor"],
+    "profile": {
+      "age": 30,
+      "gender": "male",
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001"
+      }
+    }
+  },
+  "posts": [
+    {
+      "id": 101,
+      "title": "Introduction to JSON",
+      "content": "This is a sample post about JSON.",
+      "datePosted": "2024-10-23",
+      "comments": [
+        {
+          "id": 1001,
+          "user": "Jane Smith",
+          "comment": "Great post!",
+          "date": "2024-10-23"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Working with APIs",
+      "content": "This is a post about how to use APIs effectively.",
+      "datePosted": "2024-10-22",
+      "comments": []
+    }
+  ]
+}
